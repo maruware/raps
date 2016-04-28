@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['maruware']
   spec.email         = ['me@maruware.com']
 
-  spec.summary       = 'Rack server to delivery rails public server.'
-  spec.description   = 'Rack server to delivery rails public server.'
+  spec.summary       = 'Rack server to delivery rails public directory.'
+  spec.description   = 'Rack server to delivery rails public directory.'
   spec.homepage      = 'https://github.com/maruware/raps'
 
   spec.files = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
